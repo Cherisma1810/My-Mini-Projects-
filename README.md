@@ -33,4 +33,4 @@ Each one helped me improve my skills, understand DOM manipulation, and strengthe
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mini-projects.git
+   git clone https://github.com/@Cherisma1810/mini-projects.git
